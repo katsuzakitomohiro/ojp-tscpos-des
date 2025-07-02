@@ -1,4 +1,5 @@
 # ojp-tscpos-des
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15790318.svg)](https://doi.org/10.5281/zenodo.15790318)
 
 ## 概要
 
