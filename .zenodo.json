@@ -1,0 +1,65 @@
+{
+    "creators": [
+        {
+            "name": "Katsuzaki, Tomohiro",
+            "orcid": "0000-0002-8673-2987",
+            "affiliation": "University of Fukui",
+            "type": "Researcher"
+        },
+        {
+            "name": "Shigenobu, Ryuto",
+            "orcid": "0000-0001-8106-074X",
+            "affiliation": "University of Fukui",
+            "type": "Researcher"
+        },
+        {
+            "name": "Takahashi, Akiko",
+            "orcid": "0009-0003-9308-3641",
+            "affiliation": "University of Fukui",
+            "type": "Researcher"
+        },
+        {
+            "name": "Ito, Masakazu",
+            "orcid": "0000-0002-8932-4014",
+            "affiliation": "University of Fukui",
+            "type": "Researcher"
+        },
+        {
+            "name": "Suzuki, Yosuke",
+            "orcid": "0009-0009-3235-3576",
+            "affiliation": "University of Fukui",
+            "type": "Researcher"
+        },
+        {
+            "name": "Terasaki, Hiroaki",
+            "orcid": "0000-0003-0087-8473",
+            "affiliation": "University of Fukui",
+            "type": "Researcher"
+        },
+    ],
+    "title": "OJP-TSCPOS-DES",
+    "version": "0.1.0",
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "identifier": "https://doi.org/10.51094/jxiv.1066",
+            "relation": "isSupplementTo",
+            "resource_type": "preprint"
+        },
+        {
+            "identifier": "https://doi.org/10.51094/jxiv.1197",
+            "relation": "isSupplementTo",
+            "resource_type": "preprint"
+        }
+    ],
+    "keywords": [
+        "Photovoltaic System",
+        "Gas Water Heater",
+        "Coefficient of Performance (COP)",
+        "Energy Management System (EMS)",
+        "Mixed-Integer Linear Programming (MILP)"
+    ],
+    "license": "mit",
+    "upload_type": "software",
+    "language": "jpn"
+}
