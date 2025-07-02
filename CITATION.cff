@@ -46,33 +46,6 @@ identifiers:
     value: 10.51094/jxiv.1197
     description: The Jxiv preprint of the paper related to the software
 repository-code: 'https://github.com/katsuzakitomohiro/ojp-tscpos-des'
-abstract: >-
-  Heat pump water heaters (HPWHs) are attracting
-  considerable attention as a pivotal renewable energy
-  technology for achieving carbon neutrality in commercial
-  and residential sectors. This study proposes an
-  optimization model that comprehensively incorporates the
-  dynamics of HPWHs and their interaction with electricity,
-  heat, and water. Formulated as a joint optimization
-  problem of technology selection, capacities planning, and
-  operation scheduling, the model enables a potential
-  evaluation of an HPWH-based energy system. Numerical
-  simulations, conducted for a single household in Fukui
-  City over five days during the winter season, reveal that
-  introducing a photovoltaic system, an HPWH, and a gas
-  water heater (GWH) can minimize CO2 emissions. In this
-  configuration, the optimal HPWH capacity is 11.7 kW,
-  leading to a 41.4% reduction in CO2 emissions compared to
-  an HPWH-only scenario. However, deploying equipment that
-  achieves the above reduction would raise the
-  investment-equivalent cost, calculated using the combined
-  capital-recovery and O&M rates of renewable-energy devices
-  and other related equipment, to approximately 6.5 times
-  that of the total-cost-minimizing case. Furthermore, the
-  derivation of a solution that combines HPWH and GWH is
-  thought to derive from considering time variation in the
-  coefficient of performance (COP), highlighting the
-  importance of considering dynamics in HPWH modeling.
 keywords:
   - Photovoltaic System
   - Gas Water Heater
