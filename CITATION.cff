@@ -1,0 +1,84 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: OJP-TSCPOS-DES
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tomohiro
+    family-names: Katsuzaki
+    email: katsuzaki.tomohiro@pws.fuee.u-fukui.ac.jp
+    affiliation: University of Fukui
+    orcid: 'https://orcid.org/0000-0002-8673-2987'
+  - given-names: Ryuto
+    family-names: Shigenobu
+    email: lute@u-fukui.ac.jp
+    affiliation: University of Fukui
+    orcid: 'https://orcid.org/0000-0001-8106-074X'
+  - given-names: Akiko
+    family-names: Takahashi
+    email: takahasi@u-fukui.ac.jp
+    affiliation: University of Fukui
+    orcid: 'https://orcid.org/0009-0003-9308-3641'
+  - given-names: Masakazu
+    family-names: Ito
+    email: itomasa@u-fukui.ac.jp
+    affiliation: University of Fukui
+    orcid: 'https://orcid.org/0000-0002-8932-4014'
+  - given-names: Yosuke
+    family-names: Suzuki
+    orcid: 'https://orcid.org/0009-0009-3235-3576'
+    affiliation: University of Fukui
+    email: you-suzu@u-fukui.ac.jp
+  - email: terasaki@u-fukui.ac.jp
+    given-names: Hiroaki
+    family-names: Terasaki
+    affiliation: University of Fukui
+    orcid: 'https://orcid.org/0000-0003-0087-8473'
+identifiers:
+  - type: doi
+    value: 10.51094/jxiv.1066
+    description: The Jxiv preprint of the paper related to the software
+  - type: doi
+    value: 10.51094/jxiv.1197
+    description: The Jxiv preprint of the paper related to the software
+repository-code: 'https://github.com/katsuzakitomohiro/ojp-tscpos-des'
+abstract: >-
+  Heat pump water heaters (HPWHs) are attracting
+  considerable attention as a pivotal renewable energy
+  technology for achieving carbon neutrality in commercial
+  and residential sectors. This study proposes an
+  optimization model that comprehensively incorporates the
+  dynamics of HPWHs and their interaction with electricity,
+  heat, and water. Formulated as a joint optimization
+  problem of technology selection, capacities planning, and
+  operation scheduling, the model enables a potential
+  evaluation of an HPWH-based energy system. Numerical
+  simulations, conducted for a single household in Fukui
+  City over five days during the winter season, reveal that
+  introducing a photovoltaic system, an HPWH, and a gas
+  water heater (GWH) can minimize CO2 emissions. In this
+  configuration, the optimal HPWH capacity is 11.7 kW,
+  leading to a 41.4% reduction in CO2 emissions compared to
+  an HPWH-only scenario. However, deploying equipment that
+  achieves the above reduction would raise the
+  investment-equivalent cost, calculated using the combined
+  capital-recovery and O&M rates of renewable-energy devices
+  and other related equipment, to approximately 6.5 times
+  that of the total-cost-minimizing case. Furthermore, the
+  derivation of a solution that combines HPWH and GWH is
+  thought to derive from considering time variation in the
+  coefficient of performance (COP), highlighting the
+  importance of considering dynamics in HPWH modeling.
+keywords:
+  - Photovoltaic System
+  - Gas Water Heater
+  - Coefficient of Performance (COP)
+  - Energy Management System (EMS)
+  - Mixed-Integer Linear Programming (MILP)
+license: MIT
+version: 0.1.0
+date-released: '2025-09-10'
