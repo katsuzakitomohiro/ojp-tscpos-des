@@ -39,13 +39,13 @@
     ],
     "title": "OJP-TSCPOS-DES",
     "description": "Source code and datasets for optimal joint planning of technology selection, capacities planning, and operation scheduling for demand-side energy systems considering heat pump water heater dynamics and electric-thermal-water coordination.",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "access_right": "open",
     "related_identifiers": [
         {
             "identifier": "https://doi.org/10.24778/jjser.46.5_249",
             "relation": "isSupplementTo",
-            "resource_type": "article"
+            "resource_type": "publication-article"
         },
         {
             "identifier": "https://doi.org/10.51094/jxiv.1066",
